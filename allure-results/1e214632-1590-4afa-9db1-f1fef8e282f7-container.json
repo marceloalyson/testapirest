@@ -1,0 +1,7 @@
+{
+  "uuid":"1e214632-1590-4afa-9db1-f1fef8e282f7",
+  "name":"Cenário: Validar que ao enviar um cadastro de uma pessoa com dados invalido",
+  "children":["c55db9ce-aaed-4033-9bf0-71e0a6aff781"],
+  "befores":[],"afters":[],"links":[],"start":1631725305980,
+  "stop":1631725306051
+}
