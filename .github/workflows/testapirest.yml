@@ -27,7 +27,7 @@ jobs:
       
   
   deploy-dev:
-    name: Deploy Desenvolvimento
+    name: Deploy Desenvolvimentos
     runs-on: ubuntu-latest
     environment: dev
     needs: [build]
